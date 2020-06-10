@@ -1,5 +1,5 @@
 const slides = document.querySelectorAll(".slide-item");
-const slideTime = 2000;
+const slideTime = 3000;
 let slideCounter = 0;
 slides[slideCounter].classList.add("active");
 
